@@ -1,7 +1,13 @@
-random soyjaks in your terminal!
+# random soyjaks in your terminal!
+
+### Requirements:
+Cargo (building)
+<br>
+libsixel (terminal image rendering)
+<br>
 
 
-Building & running
+### Building and running
 ```bash
 git clone https://github.com/Derukugis/terminal-soyjaks.git
 cd terminal-soyjaks
